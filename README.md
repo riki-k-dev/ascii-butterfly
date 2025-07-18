@@ -56,7 +56,7 @@ A dynamic 3D butterfly visualization with a **real-time ASCII shader** overlay, 
 git clone https://github.com/riki-k-dev/ascii-butterfly.git
 
 # Navigate into the project folder
-cd ascii-butterfly-viewer
+cd ascii-butterfly
 
 # Install dependencies
 npm install
