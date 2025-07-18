@@ -2,7 +2,7 @@
 
 A dynamic 3D butterfly visualization with a **real-time ASCII shader** overlay, powered by **React Three Fiber**, **Three.js**, and **postprocessing**. This interactive WebGL experience includes **GLTF model animation**, fully responsive **ASCII effects**, **Leva UI controls**, and smooth **orbit camera navigation**.
 
-[![Hero Screenshot](public/heropage.png)](https://ascii-butterfly.vercel.app/)
+[![Hero Screenshot](public/heropage.png)](https://ascii-butterfly.netlify.app/)
 
 ---
 
